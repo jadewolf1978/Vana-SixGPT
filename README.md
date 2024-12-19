@@ -1,6 +1,6 @@
 # SixGPT Miner 部署工具
 
-这是一个用于部署和管理 SixGPT Miner 的脚本工具，提供中英文双语支持。
+这是一个用于部署和管理 SixGPT Miner 的中文脚本工具。
 
 ## 支持的系统
 - Ubuntu
@@ -14,18 +14,12 @@
 
 ## 快速开始
 
-### 中文版本
 ```bash
 wget -O Vana-SixGPT.sh https://raw.githubusercontent.com/jadewolf1978/Vana-SixGPT/main/Vana-SixGPT-CN.sh && chmod +x Vana-SixGPT.sh && ./Vana-SixGPT.sh
 ```
 
-### 英文版本
-```bash
-wget -O Vana-SixGPT.sh https://raw.githubusercontent.com/jadewolf1978/Vana-SixGPT/main/Vana-SixGPT.sh && chmod +x Vana-SixGPT.sh && ./Vana-SixGPT.sh
-```
-
 ## 功能特点
-1. 支持中英文双语界面
+1. 完整的中文界面
 2. 自动检测系统环境（CPU、内存、GPU）
 3. 自动安装所需依赖（Docker、Docker Compose）
 4. 提供完整的服务管理功能
@@ -62,7 +56,6 @@ wget -O Vana-SixGPT.sh https://raw.githubusercontent.com/jadewolf1978/Vana-SixGP
 
 ## 更新日志
 - 2024-12-19
-  - 添加中文界面支持
   - 优化系统环境检测
   - 改进错误处理和用户提示
   - 添加 GPU 检测支持（NVIDIA/AMD）
