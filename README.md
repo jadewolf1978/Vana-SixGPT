@@ -9,8 +9,11 @@
 
 ## 前置要求
 - 准备 Vana 钱包
-  - 确保钱包中有至少 0.1 VANA
+  - 确保钱包中有至少 0.1 VANA=这点比较重要，目前领水一天领10VANA，但是只够1-2台电脑用。
   - 在 sixgpt.xyz 上完成钱包登录
+  - 
+- Vana领水地址，24小时一次
+https://faucet.vana.com/moksha
 
 ## 快速开始
 
@@ -29,6 +32,12 @@ wget -O Vana-SixGPT.sh https://raw.githubusercontent.com/jadewolf1978/Vana-SixGP
    - 重启服务
    - 清理服务
    - 检查系统环境
+
+菜单界面
+![image](https://github.com/user-attachments/assets/dc4e4a71-dd46-4de7-9a92-33822a5087c3)
+
+运行界面
+![e56a91d3d0f4ff58c4c33aa809c9ed4](https://github.com/user-attachments/assets/7e4b1b81-c8d8-446b-aa88-a6e619e208c7)
 
 ## 使用说明
 
