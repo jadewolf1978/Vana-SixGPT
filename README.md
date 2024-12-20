@@ -6,6 +6,7 @@
 - Ubuntu
 - Debian
 - CentOS
+- windows11(WSL)
 
 ## 前置要求
 - 准备 Vana 钱包
